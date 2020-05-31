@@ -1,0 +1,5 @@
+.idea
+env/*
+.idea/*
+.ipynb_checkpoints/*
+Notebook/.ipynb_checkpoints/*
